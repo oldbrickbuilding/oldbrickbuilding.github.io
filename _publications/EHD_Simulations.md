@@ -3,9 +3,24 @@ title: "(In Progress) Simulations to Predict the Experimental Results Obtained f
 collection: publications
 category: manuscripts
 permalink: /publication/EHD_Simulations
-excerpt: 'Electrospinning is a technique often used for the production of nanofibers composed of various polymers and ceramics. For enhanced material performance, it is desirable to obtain nanofibrous structures with a pre-determined microscopic fiber orientation and macroscopic geometry. However, it is challenging to control or predict the final deposition structure of an electrospun nanofiber due to the inherent instabilities induced along the polymer jet during the electrospinning process. Historically, mitigating these instabilities has been attempted electrically, magnetically, and mechanically with limited levels of success. Here, a new technique to electrically control the trajectory of an electrospun jet by electrohydrodynamic deflection is introduced. This protocol is achieved using a set of linearly actuated intermediary electrodes and a rapidly oscillating electric potential, driven by home-built AC amplifiers and a switching algorithm to control the amplitude, frequency, duty cycle, and the relative phase of the external electric field...'
-date: 2019-02-07
-venue: 'Journal of Applied Physics'
-paperurl: 'https://pubs.aip.org/aip/jap/article-abstract/125/5/054901/346854/Controlled-deposition-of-electrospun-nanofibers-by?redirectedFrom=fulltext'
+excerpt: 'Electrospinning has been modeled using a Langrangian, as well as an Eularian
+approach. Depending on which model is employed, various features of the
+electrospinning process may be analytically or numerically studied, e.g. when
+analyzing fiber diameter as a function of jet instability and whipping. Numerically,
+Reneker et al. proposed a discrete model, which divides the jet into N elements, or
+beads, each possessing an individual mass (mi) and charge (qi). In this system,
+each bead is interconnected by viscoelastic filaments, which can be generalized by a
+spring and dashpot. Here, a positively charged element, mi, among
+N adjacent charges, is injected from a positively charged nozzle into an external
+electric field. In this scenario, it is evident that the ith bead will be accelerated by an
+external electric field, Ei, at each point, which is sometimes approximated by the
+voltage on each conductor and/or dielectric within the vicinity of the jet. For a three-
+dimensional system, calculating this electric field, Ei, at each coordinate can be
+computationally intensive, especially in consideration of each electrode architecture.
+However, there are some numerical methods that may be useful for simulation
+purposes, e.g. using a boundary element method [4]. Knowing the electric field at
+each point then provides the amount of force on the ith bead, where qi is the charge on the ith bead and
+Ei is the electric field at the ith coordinate due the surrounding conductors and dielectrics...'
+paperurl: 'https://oldbrickbuilding.github.io/files/EHD_Simulations.pdf)'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
