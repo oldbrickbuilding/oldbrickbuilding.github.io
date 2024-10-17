@@ -2,8 +2,7 @@
 title: "Development of pseudorandom binary arrays for calibration of surface profile metrology tools"
 collection: publications
 category: manuscripts
-url: 'https://pubs.aip.org/avs/jvb/article-abstract/27/6/3213/591024/Development-of-pseudorandom-binary-arrays-for?redirectedFrom=fulltext'
-#permalink: /publications/2009-11-01_LBL
+permalink: /publications/2009-11-01_LBL
 excerpt: 'Optical metrology tools, especially for short wavelengths (extreme ultraviolet and x-ray), must cover a wide range of spatial frequencies from the very low, which affects figure, to the important mid-spatial frequencies and the high spatial frequency range, which produces undesirable scattering. A major difficulty in using surface profilometers arises due to the unknown point-spread function (PSF) of the instruments [G. D. Boreman, Modulation Transfer Function in Optical and Electro-Optical Systems (SPIE, Bellingham, WA, 2001)] that is responsible for distortion of the measured surface profile...'
 date: 2009-11-01
 venue: 'Journal of Vacuum Science & Technology B: Microelectronics and Nanometer Structures Processing, Measurement, and Phenomena'
@@ -11,4 +10,3 @@ paperurl: 'https://pubs.aip.org/avs/jvb/article-abstract/27/6/3213/591024/Develo
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
