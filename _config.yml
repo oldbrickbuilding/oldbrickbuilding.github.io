@@ -21,7 +21,7 @@ repository               : "oldbrickbuilding/oldbrickbuilding.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Paul Soldate"
   #pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student, Department of Mechanical Engineering, University of Washington"
