@@ -22,7 +22,7 @@ purposes, e.g. using a boundary element method [4]. Knowing the electric field a
 each point then provides the amount of force on the ith bead, where qi is the charge on the ith bead and
 Ei is the electric field at the ith coordinate due the surrounding conductors and dielectrics...'
 date: Started:2024-10-17
-venue: ''
+venue: 'House'
 paperurl: 'https://oldbrickbuilding.github.io/files/EHD_Simulations.pdf'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
