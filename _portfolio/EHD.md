@@ -2,7 +2,7 @@
 title: "Electrohydrodynamic Control for Nano-Fiber Manufacturing"
 excerpt: "<br/><img src='/images/EHD_Image.png'>"
 permalink: /portfolio/EHD
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+slidesurl: 'http://oldbrickbuilding.github.io/files/EHD_Presentation.pdf'
 collection: portfolio
 ---
 
