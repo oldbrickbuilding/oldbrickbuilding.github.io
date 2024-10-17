@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Paul and I am a Ph.D. student at the University of Washington in the Department of Mechanical Engineering. I am currently developing my skills in model-based optimal control for precision instrumentation and am in the process of building a simulation to predict the behavior of a patented electrohydrodynamic manufacturing process. For more information on my latest projects, please feel free to browse my list of publications and, as always, please don't hesitate to reach out if you're interested in collaborating!
+My name is Paul and I am a Ph.D. student at the University of Washington in the Department of Mechanical Engineering. I am currently developing my skills in model-based optimal control for precision instrumentation and am in the process of building a simulation to predict the behavior of a patented electrohydrodynamic manufacturing process. Please feel free to browse my list of publications for more information and, as always, please don't hesitate to reach out if you're interested in collaborating!
 
 
 
