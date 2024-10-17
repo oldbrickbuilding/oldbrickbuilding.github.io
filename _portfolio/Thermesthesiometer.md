@@ -1,6 +1,7 @@
 ---
 title: "Automated Thermesthesioimeter"
 excerpt: "<br/><img src='/images/Thermesthesiometer.png'>"
+permalink: _portfolio/Thermesthesiometer
 slideurl: 'oldbrickbuilding.github.io/files/Thermesthesiometer_Presentation.pdf'
 collection: portfolio
 ---
