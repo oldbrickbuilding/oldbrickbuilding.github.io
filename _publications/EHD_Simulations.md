@@ -1,5 +1,5 @@
 ---
-title: "(In Progress) Simulations to predict the experimental results obtained from prior publication: Controlled deposition of electrospun nanofibers by electrohydrodynamic deflection"
+title: "(In Progress) Simulations to model and predict the deposition behavior of electrohydrodynamic manufacturing processes"
 collection: publications
 category: manuscripts
 permalink: /publication/EHD_Simulations
