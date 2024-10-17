@@ -1,0 +1,13 @@
+---
+title: "Binary pseudo-random gratings and arrays for calibration of the modulation transfer function of surface profilometers: recent developments"
+collection: publications
+category: manuscripts
+permalink: /publication/2009-09-04_LBL
+excerpt: 'The major problem of measurement of a power spectral density (PSD) distribution of the surface heights with surface profilometers arises due to the unknown Modulation Transfer Function (MTF) of the instruments. The MTF tends to distort the PSD at higher spatial frequencies. It has been suggested [Proc. SPIE 7077-7, (2007), Opt. Eng. 47 (7), 073602-1-5 (2008)] that the instrumental MTF of a surface profiler can be precisely measured using standard test surfaces based on binary pseudo-random (BPR) patterns. In the cited work, a one dimensional (1D) realization of the suggested method based on use of BPR gratings has been demonstrated. Here, we present recent achievements made in fabricating and using two-dimensional (2D) BPR arrays that allow for a direct 2D calibration of the instrumental MTF. The 2D BPRAs were used as standard test surfaces for 2D MTF calibration of the MicromapTM-570 interferometric microscope with all available objectives...'
+date: 2009-09-04
+venue: 'Proceedings of SPIE: Advances in X-Ray/EUV Optics and Components IV'
+paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7448/744803/Binary-pseudo-random-gratings-and-arrays-for-calibration-of-the/10.1117/12.825389.short'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+
+The major problem of measurement of a power spectral density (PSD) distribution of the surface heights with surface profilometers arises due to the unknown Modulation Transfer Function (MTF) of the instruments. The MTF tends to distort the PSD at higher spatial frequencies. It has been suggested [Proc. SPIE 7077-7, (2007), Opt. Eng. 47 (7), 073602-1-5 (2008)] that the instrumental MTF of a surface profiler can be precisely measured using standard test surfaces based on binary pseudo-random (BPR) patterns. In the cited work, a one dimensional (1D) realization of the suggested method based on use of BPR gratings has been demonstrated. Here, we present recent achievements made in fabricating and using two-dimensional (2D) BPR arrays that allow for a direct 2D calibration of the instrumental MTF. The 2D BPRAs were used as standard test surfaces for 2D MTF calibration of the MicromapTM-570 interferometric microscope with all available objectives. 
