@@ -1,5 +1,7 @@
 ---
 title: "Electrohydrodynamic Methods for Manufacturing Nano-Fibers"
+collection: publications
+category: conferences
 excerpt: "<br/><img src='/images/EHD_Image.png'>"
 permalink: /portfolio/EHD
 slideurl: 'oldbrickbuilding.github.io/files/EHD_Presentation.pdf'
