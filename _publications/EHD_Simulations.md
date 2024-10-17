@@ -23,7 +23,7 @@ each point then provides the amount of force on the ith bead, where qi is the ch
 Ei is the electric field at the ith coordinate due the surrounding conductors and dielectrics...'
 date: Started:2024-10-17
 venue: ''
-paperurl: 'https://oldbrickbuilding.github.io/files/EHD_Simulations.pdf)'
+paperurl: 'https://oldbrickbuilding.github.io/files/EHD_Simulations.pdf'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 Electrospinning has been modeled using a Langrangian, as well as an Eularian
