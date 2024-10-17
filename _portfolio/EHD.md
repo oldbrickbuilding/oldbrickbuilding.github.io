@@ -2,7 +2,7 @@
 title: "Electrohydrodynamic Control for Nano-Fiber Manufacturing"
 excerpt: "<br/><img src='/images/EHD_Image.png'>"
 permalink: /portfolio/EHD
-paperurl: 'https://pubs.aip.org/aip/jap/article-abstract/125/5/054901/346854/Controlled-deposition-of-electrospun-nanofibers-by?'
+sliderurl: 'https://pubs.aip.org/aip/jap/article-abstract/125/5/054901/346854/Controlled-deposition-of-electrospun-nanofibers-by?'
 collection: portfolio
 ---
 
