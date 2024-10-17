@@ -1,8 +1,8 @@
 ---
-title: "Electrohydrodynamic Methods for Manufacturing Nano-Fibers"
+title: "Electrohydrodynamic Control for Nano-Fiber Manufacturing"
 excerpt: "<br/><img src='/images/EHD_Image.png'>"
 permalink: /portfolio/EHD
-slideurl: /files/EHD_Presentation.pdf
+papereurl: /files/EHD_Presentation.pdf
 collection: portfolio
 ---
 
