@@ -1,5 +1,5 @@
 ---
-title: "Human Factors Instrumentation for Steady State and Transient Heat Transfer Processes"
+title: "Heat Transfer/Human Factors Instrumentation and Simulations"
 excerpt: "<br/><img src='/images/Thermesthesiometer_Image.png'>"
 permalink: /portfolio/Thermesthesiometer
 slidesurl: 'http://oldbrickbuilding.github.io/files/Thermesthesiometer_Presentation.pdf'
