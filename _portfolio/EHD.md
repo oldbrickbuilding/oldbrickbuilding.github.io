@@ -1,5 +1,5 @@
 ---
-title: "Electrohydrodynamic Manufacturing Processes"
+title: "Patented Electrohydrodynamic Manufacturing Processes"
 excerpt: "<br/><img src='/images/EHD_Image.png'>"
 permalink: /portfolio/EHD
 slidesurl: 'http://oldbrickbuilding.github.io/files/EHD_Presentation.pdf'
