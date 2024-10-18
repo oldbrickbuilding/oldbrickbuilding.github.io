@@ -1,5 +1,5 @@
 ---
-title: "Human Factors Instrumentation for Thermal Analysis of : D Automated Thermesthesioimeter"
+title: "Human Factors Instrumentation for Steady State and Transient Heat Transfer Processes"
 excerpt: "<br/><img src='/images/Thermesthesiometer_Image.png'>"
 permalink: /portfolio/Thermesthesiometer
 slidesurl: 'http://oldbrickbuilding.github.io/files/Thermesthesiometer_Presentation.pdf'
