@@ -1,5 +1,5 @@
 ---
-title: "Heat Transfer/Human Factors Instrumentation and Simulations"
+title: "Heat Transfer/Human Factors Instrumentation"
 excerpt: "<br/><img src='/images/Thermesthesiometer_Image.png'>"
 permalink: /portfolio/Thermesthesiometer
 slidesurl: 'http://oldbrickbuilding.github.io/files/Thermesthesiometer_Presentation.pdf'
