@@ -19,8 +19,8 @@ dimensional system, calculating this electric field, $$E_i$$, at each coordinate
 computationally intensive, especially in consideration of each electrode architecture.
 However, there are some numerical methods that may be useful for simulation
 purposes, e.g. using a boundary element method. Knowing the electric field at
-each point then provides the amount of force on the ith bead, where qi is the charge on the $$i^th$$ bead and
-Ei is the electric field at the $$i^th$$ coordinate due the surrounding conductors and dielectrics...'
+each point then provides the amount of force on the ith bead, where qi is the charge on the $$i^{th}$$ bead and
+Ei is the electric field at the $$i^{th}$$ coordinate due the surrounding conductors and dielectrics...'
 date: Started:2024-10-17
 venue: 'pre-print'
 paperurl: 'https://oldbrickbuilding.github.io/files/EHD_Simulations.pdf'
