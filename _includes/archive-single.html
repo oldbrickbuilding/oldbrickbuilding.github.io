@@ -53,20 +53,20 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">See Paper</a> | <a href="{{ post.slidesurl }}">See Presentation</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">See Paper</a> | <a href="{{ post.slidesurl }}"></a></p>
     {% elsif post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">See Paper</a></p>
     {% elsif post.paperurl %}
       <p>See <a href="{{ post.paperurl }}">See Paper</a></p></p>
     {% endif %}
     {% elsif post.citation and post.slidesurl %}
-      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}">See Presentation</a></p>
+      <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.slidesurl }}"></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }}</p>
     {% elsif post.paperurl %}
       <p><a href=" {{ post.paperurl }} ">See Paper</a></p>
     {% elsif post.slidesurl %}
-      <p>See <a href="{{ post.slidesurl }}">Presentation</a></p></p>
+      <p>See <a href="{{ post.slidesurl }}">See Presentation</a></p></p>
     {% endif %}
 
   </article>
