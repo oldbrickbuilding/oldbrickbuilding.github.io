@@ -51,6 +51,8 @@ layout: default
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">See Paper</a> | <a href="{{ page.slidesurl }}">See Presentation</a></p>
         {% elsif page.citation and page.paperurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">See Paper</a></p>
+        {% elsif page.papersurl %}
+          <p style="font-size: smaller"><a href="{{ page.papersurl }}">See Paper</a></p>
         {% elsif page.citation and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.slidesurl }}">See Presentation</a></p>
         {% elsif page.citation %}
