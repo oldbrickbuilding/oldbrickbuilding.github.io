@@ -22,7 +22,7 @@ purposes, e.g., using a boundary element method. Knowing the electric field at
 each point then provides the amount of force on the $$i^{th}$$ bead, where $$q_i$$ is the charge on the $$i^{th}$$ bead and
 $$E_i$$ is the electric field at the $$i^{th}$$ coordinate due the surrounding conductors and dielectrics...'
 date: Started:2024-10-17
-venue: '(Pre-Print)'
+venue: 'Pre-Print'
 paperurl: 'https://oldbrickbuilding.github.io/files/EHD_Simulations.pdf'
 #citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
