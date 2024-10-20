@@ -26,6 +26,6 @@
       <a href="{{ base_path }}{{ category_word | slugify | prepend: path_type | prepend: site.category_archive.path }}" class="page__taxonomy-item" rel="tag">{{ category_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
     {% endfor %}
     </span>
-  </p>
+</p>
   
 {% endif %}
