@@ -12,5 +12,5 @@ main:
   - title: "Publications & Patents"
     url: /publications/   
     
-  - title: "CV"
-    url: /files/cv.pdf
+  #- title: "CV"
+    #url: /files/cv.pdf
