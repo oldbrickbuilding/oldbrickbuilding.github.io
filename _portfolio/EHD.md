@@ -1,5 +1,5 @@
 ---
-title: "Electrohydrodynamic Control Systems for Nanomanufacturing"
+title: "Electrohydrodynamic Control Systems"
 excerpt: "<br/><img src='/images/EHD_Image.png'>"
 permalink: /portfolio/EHD
 slidesurl: 'http://oldbrickbuilding.github.io/files/EHD_Presentation.pdf'
