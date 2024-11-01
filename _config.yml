@@ -22,9 +22,9 @@ repository               : "oldbrickbuilding/oldbrickbuilding.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Welcome!"
+  name             : "Paul Soldate"
   #pronouns         : # example: "she/her"  
-  bio              : "Pairing numerical models and control systems for precision experiments."
+  bio              : "Pairing numerical models and control systems for precision experiments at the Mechatronics, Automation, and Control Systems Laboratory"
   #location         : "Earth"
   #employer         : "Red Brick University"
   #uri              : # URL
