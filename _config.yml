@@ -15,7 +15,10 @@ description              : &description "personal description"
 url                      : https://oldbrickbuilding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "oldbrickbuilding/oldbrickbuilding.github.io"
- 
+
+header:
+ image: /assets/images/EHD_Image.png
+  
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -73,14 +76,6 @@ author:
   #youtube          : # Username
   #zhihu            : # Username
 
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header:
-  overlay_image: /assets/images/EHD_Image.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
-  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
