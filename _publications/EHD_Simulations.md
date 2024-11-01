@@ -12,8 +12,7 @@ each mass is interconnected by viscoelastic filaments, which can be generalized 
 spring-mass-damper system. Here, a positively charged element, $$m_i$$, among
 $$N-1$$ adjacent charges, is injected from a positively charged nozzle into an external
 electric field. In this scenario, the $$i^{th}$$ mass will be accelerated by the
-external electric field, $$E_i$$, at each point, which has sometimes been approximated by the
-voltage on each conductor and/or dielectric within the vicinity of the jet. For a three-
+external electric field, $$E_i$$, at each point. For a three-
 dimensional system, calculating this electric field, $$E_i$$, at each coordinate can be
 computationally intensive, especially in consideration of each electrode architecture.
 However, there are some numerical methods that may be useful for simulation
@@ -32,8 +31,7 @@ each mass is interconnected by viscoelastic filaments, which can be generalized 
 spring-mass-damper system. Here, a positively charged element, $$m_i$$, among
 $$N-1$$ adjacent charges, is injected from a positively charged nozzle into an external
 electric field. In this scenario, the $$i^{th}$$ mass will be accelerated by the
-external electric field, $$E_i$$, at each point, which can be approximated by the
-voltage on each conductor and/or dielectric within the vicinity of the jet. For a three-
+external electric field, $$E_i$$, at each point. For a three-
 dimensional system, calculating the electric field, $$E_i$$, at each position can be
 computationally intensive, especially in consideration of each electrode architecture.
 However, there are numerical methods that may be useful for simulation
