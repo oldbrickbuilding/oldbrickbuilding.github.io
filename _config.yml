@@ -21,7 +21,7 @@ repository               : "oldbrickbuilding/oldbrickbuilding.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : EHD_Image.png #"profile.png"
+  avatar           : "profile.png"
   name             : "Welcome!"
   #pronouns         : # example: "she/her"  
   bio              : "Mechatronics, Automation, & Control Systems Laboratory, University of Washington"
