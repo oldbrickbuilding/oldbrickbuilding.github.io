@@ -73,8 +73,13 @@ author:
   #youtube          : # Username
   #zhihu            : # Username
 
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  image: /assets/images/EHD_Image.png
+  overlay_image: /assets/images/EHD_Image.png
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
   
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
