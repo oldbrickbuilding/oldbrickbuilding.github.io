@@ -6,7 +6,7 @@
 
 main: 
       
-  #- title: "Portfolio"
+  - title: "Experimental Systems & Models"
     #url: /portfolio/
     
   - title: "Publications & Patents"
