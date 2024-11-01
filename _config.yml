@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Paul Soldate"
+name                     : &name "Welcome!"
 description              : &description "personal description"
 url                      : https://oldbrickbuilding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "oldbrickbuilding/oldbrickbuilding.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Paul Soldate"
+  name             : "Welcome!"
   #pronouns         : # example: "she/her"  
   bio              : "Mechatronics, Automation, & Control Systems Laboratory, University of Washington"
   #location         : "Earth"
