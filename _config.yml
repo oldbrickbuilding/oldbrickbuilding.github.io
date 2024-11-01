@@ -73,6 +73,9 @@ author:
   #youtube          : # Username
   #zhihu            : # Username
 
+header:
+  image: /assets/images/EHD_Image.png
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
