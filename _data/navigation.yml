@@ -6,7 +6,7 @@
 
 main: 
       
-  #- title: "Academic Projects"
+  - title: "Academic Projects"
     #url: /portfolio/
     
   - title: "Publications & Patents"
