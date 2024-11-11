@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+o# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -25,7 +25,7 @@ header:
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Paul Soldate"
+  name             : ""
   #pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student, Mechatronics, Automation, and Control Systems Laboratory, University of Washington"
   #location         : "Earth"
@@ -52,7 +52,7 @@ author:
 
   # Social media
   #bluesky          : "bsky.app" # Replace this with you Bluesky username
-  #facebook          : "paul.soldate.5"
+  #facebook          : ""
   #flickr           : # Username
   #foursquare       : # Username
   #goodreads        : # Username
