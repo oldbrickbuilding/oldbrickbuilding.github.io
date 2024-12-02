@@ -1,5 +1,5 @@
 ---
-title: "Thermal Effusivity Measurements for Composite Materials: Control Systems and Simulations"
+title: "Thermal Effusivity and Transient Measurement, Control Systems, and Simulations"
 excerpt: "<br/><img src='/images/Thermal_Poster.png'>"
 permalink: /portfolio/Thermal
 slidesurl: 'http://oldbrickbuilding.github.io/files/Thermal_Instruments_Presentation_General.pdf'
